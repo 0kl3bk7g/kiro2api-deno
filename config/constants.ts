@@ -21,7 +21,7 @@ export const DEFAULTS = {
   GIN_MODE: "release",
   LOG_LEVEL: "info",
   LOG_FORMAT: "json",
-  MAX_TOKENS: 40000,
+  MAX_TOKENS: 2000000,
   AGENT_TASK_TYPE: "vibe",
   CHAT_TRIGGER_TYPE: "MANUAL",
   ORIGIN: "AI_EDITOR",
